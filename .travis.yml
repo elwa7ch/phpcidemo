@@ -6,3 +6,5 @@ php:
 
 script:
    - composer install --no-interaction --dev
+notifications:
+  slack: zl-org:kROXH8E3y3KW9d1nMoVvSwDh
